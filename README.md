@@ -1,1 +1,1 @@
-# code_spaces_demo
+# Linux and Bash course from Coursera
